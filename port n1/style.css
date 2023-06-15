@@ -6,3 +6,38 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    background-color: blueviolet;
+}
+.cobecalhio{
+}
+
+.cobecalhio .conteudo{
+    margin-top: 5rem;
+}
+
+h3{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+h1{
+    font-size: 100px;
+    color: aliceblue;
+}
+ul{
+    display: flex;
+    gap: 20px;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
